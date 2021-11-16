@@ -2,7 +2,7 @@
 
 - 🔭 I’m a first year student pursuing Chemical Engineering at Indian Institute of Technology, Bombay
 - 🌱 I’m interested in software developmnent
-- 👯  I’m currently learning data structures and algorithms, web development, Flutter and Machine Learning & I enjoy learning new things
+- 👯  I’m currently learning data structures and algorithms, web development, DevOps and Machine Learning & I enjoy learning new things
 - ⚡ Fun fact: I love to draw and play guitar / keyboard
 
 ### Connect with me:
