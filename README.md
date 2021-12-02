@@ -1,9 +1,11 @@
-### Hi there, I'm Ankit 👋 
-
-- 🔭 I’m a first year student pursuing Chemical Engineering at Indian Institute of Technology, Bombay
-- 🌱 I’m interested in software developmnent
-- 👯  I’m currently learning data structures and algorithms,DevOps & I enjoy learning new things
-- ⚡ Fun fact: I love to draw and play guitar / keyboard
+### Hi there 👋 
+```python
+aboutMe = {
+    Name      : "Ankit Kumar",
+    Interests :["Programming", "Machine Learning", "DevOps", "Art and Music"],
+    Languages :["Python","C","C++","HTML","DART","JAVA"],
+}
+```
 
 ### Connect with me:
 [<img align="left" alt="Ankitkmm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
