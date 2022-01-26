@@ -36,4 +36,4 @@ aboutMe = {
 
 
 [instagram]: https://www.instagram.com/ankit_akm1/
-[linkedin]: https://www.linkedin.com/in/ankit-kumar-774440203/
+[linkedin]: https://www.instagram.com/ankit_575_/
