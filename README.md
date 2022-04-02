@@ -35,5 +35,5 @@ aboutMe = {
 <br />
 
 
-[instagram]: https://www.instagram.com/ankit_akm1/
-[linkedin]: https://www.instagram.com/ankit_575_/
+[instagram]: https://www.instagram.com/ankitjs.exe/
+[linkedin]: https://www.linkedin.com/in/ankit-kumar-774440203/
