@@ -2,8 +2,8 @@
 ```python
 aboutMe = {
     Name      : "Ankit Kumar",
-    Interests :["Security", "Machine Learning", "DevOps", "Art and Music"],
-    Languages :["Python","C","C++","HTML","DART","JAVA", "Golang", "Rust"],
+    Interests :["Security", "Web Dev", "DevOps", "Art and Music"],
+    Languages :["Python","C","C++","HTML"],
 }
 ```
 
