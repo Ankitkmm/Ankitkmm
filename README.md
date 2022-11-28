@@ -2,7 +2,7 @@
   
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Ankit" width="10px"> -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Sophomore+At+at+IIT+Bombay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Sophomore+At+IIT+Bombay)](https://git.io/typing-svg)
 </h1>
   
 <h2 align="center">Github Statistics </h2>
