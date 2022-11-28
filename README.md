@@ -9,15 +9,15 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkmm&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Ankitkmm)|[![Utkarsh575's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankitkmm&theme=midnight-purple&hide_border=true)](https://github.com/Ankitkmm)
-|[![Utkarsh575's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitkmm&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/Ankitkmm)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/Ankitkmm/count.svg)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkmm&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Ankitkmm)|[![Ankitkmm's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankitkmm&theme=midnight-purple&hide_border=true)](https://github.com/Ankitkmm)
+|[![Ankitkmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitkmm&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/Ankitkmm)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/Ankitkmm/count.svg)
 
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:utkarshlohani575@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Utkarsh575" height="40" width="40" /></fa>
+<a href="mailto:ankitkm2121@gmail@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Utkarsh575" height="40" width="40" /></fa>
 </a>
 
   <a href="https://twitter.com/utkarsh575" target="blank"
@@ -31,7 +31,7 @@
  <a href="https://www.linkedin.com/in/utkarsh-utkarsh-a3430a196/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Utkarsh"
+      alt="Ankit"
       height="30"
       width="40"
   /></a>
@@ -68,25 +68,25 @@
  -->
 </p>
 
-![Utkarsh575's github activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh575&theme=react-dark)
+![Ankitkmm's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitkmm&theme=react-dark)
 
 
 
 - 👀 I’m interested in software developmnent 
-- 🌱 I’m currently learning data structures and algorithms , web development
+- 🌱 I’m currently learning data structures and algorithms , web development and ML
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :- 
-- ✅  utkarsh575@yahoo.com
-- ✅  disocrd :- A Suspicious Meow!?#4080 
-- ✅  instagram :- utkarsh575_
+- ✅  ankitkm2121@gmail.com
+- ✅  discord :- 
+- ✅  instagram :- ankitkm12
 
 
 <!-- section for marked stuff for change -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=ayu-mirage)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitkmm&theme=ayu-mirage)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkmm" />
  -->
 
 <!---
-Utkarsh575/Utkarsh575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ankitkmm/Ankitkmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
