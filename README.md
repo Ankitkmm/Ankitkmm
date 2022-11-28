@@ -17,18 +17,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:ankitkm2121@gmail@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Utkarsh575" height="40" width="40" /></fa>
+<a href="mailto:ankitkm2121@gmail@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Ankitkmm" height="40" width="40" /></fa>
 </a>
 
-  <a href="https://twitter.com/utkarsh575" target="blank"
+  <a href="https://twitter.com/Ankitkmm" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Utkarsh575"
+      alt="Ankitkmm"
       height="30"
       width="40"
   /></a>
- <a href="https://www.linkedin.com/in/utkarsh-utkarsh-a3430a196/" target="blank"><img
+ <a href="https://www.linkedin.com/in/ankit-kumar-774440203/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Ankit"
