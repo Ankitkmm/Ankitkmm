@@ -73,11 +73,11 @@
 
 
 - 👀 I’m interested in software developmnent 
-- 🌱 I’m currently learning data structures and algorithms , web development and ML
+- 🌱 I love competitive programming and different algorithms
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :- 
 - ✅  ankitkm2121@gmail.com
-- ✅  discord :- 
+- ✅  discord :- urmum lmao
 - ✅  instagram :- ankitkm12
 
 
